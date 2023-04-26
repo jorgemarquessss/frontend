@@ -1,0 +1,9 @@
+Auto Rename Tag
+Bracket Pair Colorization Toggler
+Live Server
+Color Highlight
+Live Share
+
+Material Icon Theme
+
+http://info.cern.ch/
