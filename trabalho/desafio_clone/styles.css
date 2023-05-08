@@ -1,0 +1,121 @@
+body{
+  max-width: 810px;  
+  min-width: 800px;
+}
+.containerheader{
+    width: auto;
+    height: 80px;
+    background-color: rgba(128, 128, 128, 0.349);
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+}
+.pricipal{
+    display: flex;
+    max-width: 800px;
+}
+
+#h1{
+    border-radius: 5px;
+    width: 100px;
+    height: 50px;
+    background-color: rgba(248, 255, 240, 0.544);
+    align-items: start;    
+    display: inline-block;
+}
+
+#h2{
+    border-radius: 5px;
+    margin-left: 5px;
+    width: 800px;
+    height: 50px;
+    background-color: rgba(249, 255, 240, 0.611);
+    display: inline-block;
+}
+
+#h3{
+    border-radius: 5px;
+    margin-left: 5px;
+    width: 100px;
+    height: 50px;
+    background-color: rgba(241, 255, 240, 0.595);
+    display: inline-block;
+}
+.navcontainer{
+    margin-left: 10%;
+    width: auto;
+    height: 80px;
+    background-color:rgba(255, 255, 255, 0.36);
+    display: flex;
+    justify-content: row;
+    align-items: center;
+}
+
+#n1,#n2,#n3,#n4,#n5,#n6{
+    border-radius: 5px;
+    width: 150px;
+    height: 50px;
+    background-color: rgb(77, 224, 24);
+    align-items: start;    
+    display: inline-block;
+    margin-left: 2px;
+}
+.assidecontainer{
+   
+    margin-left: 100%;
+    align-self: flex-end;
+    flex-direction: column;
+    width: auto;
+    height: auto;
+    background-color:rgb(205, 15, 15);
+    display:flex;
+    justify-content: space-evenly;
+    align-items: flex-end;
+
+}
+#a1,#a2,#a3,#a4,#a5{
+    margin-top: 10px;
+    border-radius: 5px;
+    width: 200px;
+    height: 100px;
+    background-color: rgb(61, 224, 24);
+    align-items: end;    
+    display:inline-flex;
+   
+}
+#art1{
+margin-left: 10%;
+margin-top: 15px;
+border-radius: 5px;
+align-items: center;
+display: flex;
+width: 400px;
+height: 250px;
+background-color: rgb(217, 224, 24);
+justify-content: center;
+position: absolute;
+}
+
+.section{
+    margin-left: 10%;
+    width: auto;
+    height: 80px;
+    background-color:white;
+    display: flex;
+    justify-content:row;
+    align-items: flex-end;
+}
+
+#s1,#s2,#s3,#s4{
+    margin-top: 10px;
+    border-radius: 5px;
+    width: 100px;
+    height: 50px;
+    background-color: rgb(224, 24, 31); 
+    display:inline-flex;
+    justify-content: space-between;
+    margin-left: 5px;
+    margin-bottom: 15%;
+
+}
+

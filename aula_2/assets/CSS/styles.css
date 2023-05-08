@@ -1,0 +1,27 @@
+body {
+    background-image: url(../images/ilustracao-cosmonauta.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+p {
+    color: white;
+    background-color: rgba(0, 0, 0, 0.596);
+    text-align: center;
+    border-color: aqua;
+    font-size: 20px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+div h1 {
+   color: brown;
+   background-color: white;
+}
+
+.primeira-classe h1{
+    color: white;
+    background-color: brown;
+}
+
+#primero-id {
+    font-size: 16px;
+}

@@ -1,0 +1,15 @@
+Auto Rename Tag
+Bracket Pair Colorization Toggler
+Live Server
+Color Highlight
+Live Share
+
+Material Icon Theme
+
+http://info.cern.ch/
+https://www.youtube.com/results?search_query=gaveta
+https://convertio.co/pt/jpg-webp/
+https://chrome.google.com/webstore/detail/lighthouse/blipmdconlkpinefehnmjammfjpmpbjk?hl=pt
+
+
+HTML preview
